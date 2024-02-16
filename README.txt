@@ -1,3 +1,14 @@
+** install command
+clone this repo and enter,execute follow command:
+
+sudo su
+./configure && make && make check && make install
+protoc --version
+
+will see:"libprotoc 2.5.0", meaning install success
+
+origin readme
+=======================
 Protocol Buffers - Google's data interchange format
 Copyright 2008 Google Inc.
 http://code.google.com/apis/protocolbuffers/
