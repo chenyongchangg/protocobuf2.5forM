@@ -1,4 +1,5 @@
 ** install command
+this repo is download from https://github.com/protocolbuffers/protobuf/releases/tag/v2.5.0, and add some code for apple chip.
 clone this repo and enter,execute follow command:
 
 sudo su
